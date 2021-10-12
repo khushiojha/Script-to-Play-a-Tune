@@ -1,5 +1,5 @@
 # Script-to-Play-a-Tune
-CONTRIBUTORS: a)Shrey-Srivastava21 b)Ashfiya786 c)JHANKAR08
+
 # Script-to-Play-a-Tune
 
 # TPlay
